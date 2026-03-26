@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍐 Peer.AI<br>I'm building Peer.AI, a distributed AI platform where users contribute their PC's idle computing power to the network and earn credits in return to use the AI.<br> Kind of like uTorrent, but for artificial intelligence, Without crypto.<br><br>Working from home 🏠 · 🛠️ Python · HTML · CSS · JavaScript<br><br>Gamedev🕹️
+<br>I'm building Nodink studio, Working from home 🏠 <br>· 🛠️ Python · HTML · CSS · JavaScript<br><br>Gamedev🕹️
 
 
 # 💻 Tech Stack:
